@@ -19,7 +19,7 @@
     "mongoose": "^5.10.3",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "sql-template-strings": "^2.2.2"
   },
   "devDependencies": {
